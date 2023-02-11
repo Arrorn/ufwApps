@@ -1,0 +1,29 @@
+[Teamspeak]
+title = "TeamSpeak's Required Ports"
+description = "TeamSpeak is a proprietary voice-over-Internet Protocol application for audio communication between users on a chat channel, much like a telephone conference call."
+ports = 9987/udp|30033/tcp
+
+[Teamspeak ServerQuery Raw]
+title = "Teamspeak ServerQuery Raw"
+description = "ServerQuery is a commandline based administration tool/feature of TeamSpeak 3 server."
+ports = 10011/tcp
+
+[Teamspeak ServerQuery SSH]
+title = "TeamSpeak ServerQuery SSH"
+description = "ServerQuery is a commandline based administration tool/feature of TeamSpeak 3 server."
+ports = 10022/tcp
+
+[Teamspeak TSDNS]
+title = "TeamSpeak TSDNS"
+description = "TeamSpeak is a proprietary voice-over-Internet Protocol application for audio communication between users on a chat channel, much like a telephone conference call."
+ports = 41144/tcp
+
+[Teamspeak WebQuery HTTP]
+title = "TeamSpeak WebQuery HTTP"
+description = "TeamSpeak is a proprietary voice-over-Internet Protocol application for audio communication between users on a chat channel, much like a telephone conference call."
+ports = 10080/tcp
+
+[Teamspeak WebQuery HTTPS]
+title = "TeamSpeak WebQuery HTTPS"
+description = "TeamSpeak is a proprietary voice-over-Internet Protocol application for audio communication between users on a chat channel, much like a telephone conference call."
+ports = 10443/tcp

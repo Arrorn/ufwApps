@@ -1,0 +1,4 @@
+[Zomboid]
+title = "Project Zomboid Dedicated Server"
+description = "Project Zomboid is an open-ended zombie-infested sandbox. It asks one simple question – how will you die?"
+ports = 16261,16262/udp

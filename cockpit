@@ -1,0 +1,4 @@
+[Cockpit]
+title = "A sysadmin login session in a web browser"
+description = "Cockpit is an interactive server admin interface. It is easy to use and very lightweight. Cockpit interacts directly with the operating system from a real Linux session in a browser."
+ports = 9090/tcp
