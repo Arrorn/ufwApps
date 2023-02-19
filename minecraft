@@ -1,0 +1,9 @@
+[Minecraft]
+title = "Minecraft Dedicated Server"
+description = "Minecraft is a 3D sandbox game developed by Mojang Studios where players interact with a fully modifiable three-dimensional environment made of blocks and entities. Its diverse gameplay lets players choose the way they play, allowing for countless possibilities."
+ports = 25565
+
+[Minecraft RCON]
+title = "Minecraft Dedicated Server RCON"
+description = "Minecraft is a 3D sandbox game developed by Mojang Studios where players interact with a fully modifiable three-dimensional environment made of blocks and entities. Its diverse gameplay lets players choose the way they play, allowing for countless possibilities."
+ports = 25575/udp
