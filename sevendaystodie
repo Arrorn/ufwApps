@@ -1,0 +1,8 @@
+[SevenDaysToDie]
+title = "Seven Days To Die Dedicated Server"
+description = "7 Days to Die is an open-world game that is a unique combination of first-person shooter, survival horror, tower defense, and role-playing games. Play the definitive zombie survival sandbox RPG that came first. Navezgane awaits!"
+ports = 26900/tcp|26900,26901,26902,26903/udp
+[SevonDaysToDie Remote Management]
+title = "Seven Days To Die Dedicated Server Remote Management"
+description = "7 Days to Die is an open-world game that is a unique combination of first-person shooter, survival horror, tower defense, and role-playing games. Play the definitive zombie survival sandbox RPG that came first. Navezgane awaits!"
+ports = 8080,8081/tcp
