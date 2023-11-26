@@ -1,0 +1,8 @@
+[Pterodactyl Wing]
+title="Pterodactyl Wing"
+description="Wings is the next generation server control plane from Pterodactyl. It has been rebuilt from the ground up using Go and lessons learned from our first Nodejs Daemon."
+ports=8080,8443,2022/tcp
+[Pterodactyl Panel]
+title="Pterodactyl Panel"
+description="Pterodactyl is the open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to administrators and users. What more are you waiting for? Make game servers a first-class citizen on your platform today."
+ports=80,443/tcp
